@@ -1,0 +1,56 @@
+.navbar{
+    margin: auto;
+    text-decoration: none;
+    display: none;
+    text-decoration-color: white;
+    
+
+}
+.navbar:hover{
+    color: gray;
+    cursor: pointer;
+}
+img{
+    background-color: gray;
+    color: black;
+    display: inline-block;
+    }
+    .mastive{
+        color: gray;
+        font-family: arial,bold;
+        background-color: rgb(66,55,45);
+        font-weight: 600;
+    }
+    p{
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .TECH{
+        color: black;
+        background-color: rgb(197, 193, 193);
+        
+    }
+    .pic{
+        background-color: gray;
+    }
+    .text{
+        color: white;
+
+    }
+    .gun{
+        margin: 50px;
+        padding: 50px;
+        
+    }
+    .print{
+        background-color: rgb(12, 5, 12);
+        color: white;
+    }
+    .zeph{
+        color: white;
+    }
+    .pic{
+        display: flexbox;
+    }
+    .footer{
+        
+    }
